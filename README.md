@@ -2,6 +2,10 @@
 
 A fast, beautiful, keyboard-first clipboard history manager for macOS. Native Swift + SwiftUI, zero dependencies, ~650 KB app, 0% idle CPU.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Recall — clipboard history panel on macOS showing syntax-highlighted code" width="100%">
+</p>
+
 ## Open it
 
 **⌘⇧V** from anywhere — a Spotlight-style floating panel appears over whatever you're doing. Or click the clipboard icon in the menu bar (right-click it for a menu: pause, launch at login, quit).
